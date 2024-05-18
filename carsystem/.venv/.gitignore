@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+
+# Игнорировать все файлы по умолчанию
+*
+
+# Исключить .gitignore
+!.gitignore
+
+# Не игнорировать папку .venv
+!.venv/
+!.venv/**
